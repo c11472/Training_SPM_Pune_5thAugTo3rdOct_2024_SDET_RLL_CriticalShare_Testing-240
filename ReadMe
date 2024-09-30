@@ -1,3 +1,20 @@
+Dependency for testNG runner file - Cucucmber BDD:
+ <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-testng</artifactId>
+    <version>6.11.0</version>
+</dependency>
+
+
+
+
+
+
+
+
+
+
 this repos contains the instructions for automation framework training lab
 Only for reference
 Framework :
