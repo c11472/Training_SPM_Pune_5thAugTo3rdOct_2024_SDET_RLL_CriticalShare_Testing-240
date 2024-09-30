@@ -1,0 +1,12 @@
+Capturing Screenshots Code in side framework :
+
+
+import statements :
+********************
+  import org.openqa.selenium.OutputType;
+  import org.openqa.selenium.TakesScreenshot;
+
+Code to implement :
+********************
+  File src = ((TakesScreenshot) wd).getScreenshotAs(OutputType.FILE);
+	Files.copy(src, new File("./Screenshots/shot1.png"));		
