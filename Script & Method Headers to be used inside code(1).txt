@@ -1,0 +1,35 @@
+
+Script Header :
+
+/*******************************************
+Project Name:
+Module Name:
+Script Name : 
+Author:
+Date of Creation:
+Script Description:
+
+********************************************/
+
+
+
+
+Method Header:
+
+/*******************************************
+Project Name:
+Module Name:
+Requirement ID:
+Testcase ID :
+Method Name : Fun_Ocart_login()
+Method Description :
+Author: Gayatri
+Date of Creation: 20.10.2020
+Script Description: To login in opencart application 
+using valid credentials
+
+********************************************/
+
+
+Note:
+Please use the same template code script header and method header has to be there fo all the methods defined in POM.
